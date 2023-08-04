@@ -1,0 +1,11 @@
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\bin\Debug\ClienteASMX.exe.config
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\bin\Debug\ClienteASMX.exe
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\bin\Debug\ClienteASMX.pdb
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\obj\Debug\ClienteASMX.csproj.AssemblyReference.cache
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\obj\Debug\ClienteASMX.csproj.SuggestedBindingRedirects.cache
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\obj\Debug\ClienteASMX.Form1.resources
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\obj\Debug\ClienteASMX.Properties.Resources.resources
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\obj\Debug\ClienteASMX.csproj.GenerateResource.cache
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\obj\Debug\ClienteASMX.csproj.CoreCompileInputs.cache
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\obj\Debug\ClienteASMX.exe
+C:\Users\alex-\Documents\SEXTO CURSO\INTEROPERABILIDAD\ProyectoVisual\ClienteASMX\obj\Debug\ClienteASMX.pdb
